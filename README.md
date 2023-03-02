@@ -6,4 +6,4 @@ Temperature Recognition - DONE \
 Image Display - DONE \
 Image Interpolation - DONE 
 Temperature Localization / Body Outlining - In development \
-AI / Neural Network Integration - NOT DONE \
+AI / Neural Network Integration - NOT DONE
